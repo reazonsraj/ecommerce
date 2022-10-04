@@ -12,6 +12,7 @@ const Home = () => {
       <Announcements/>
       <Navbar/>
       <Slider/>
+      
       </div>
   )
 }
